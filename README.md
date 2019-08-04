@@ -1,5 +1,5 @@
 # JQuery-Pet-My-Pet
-###JS Apps Exam Project for sharing pets profiles
+### JS Apps Exam Project for sharing pets profiles
 
 The project is a Single Page Web Application using JavaScript, HTML5, CSS3, AJAX, REST and JSON with cloud-based backend (Kinvey). It also relies on jQuery, Handlebars and Sammy libraries
 The app supports validation for the fields of all forms and shows notification messages for success, error or loading.
